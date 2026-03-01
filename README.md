@@ -1,2 +1,2 @@
-# PrimerJuego2D
+# Esquiva
 Primer juego elaborado en Godot.
